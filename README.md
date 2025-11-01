@@ -1,6 +1,6 @@
  # Healthcare Consultation Assistant (SaaS)
 
- [![Live Website](https://img.shields.io/badge/Live_Website-6c63ff?logo=rocket&logoColor=white&labelColor=5a52d3)](https://healthcare.kaushikpaul.pp.ua/)
+ [![Live Website](https://img.shields.io/badge/Live_Website-6c63ff?logo=rocket&logoColor=white&labelColor=5a52d3)](https://projects.kaushikpaul.co.in/healthcare)
 
  AI-powered assistant for clinicians to turn consultation notes into:
  - Summary of the visit for records
@@ -10,7 +10,7 @@
  The app provides a polished Next.js UI, secure authentication and subscription gating with Clerk, and a FastAPI backend that streams results in real time using OpenRouter models.
 
  ## Live Demo
- - https://healthcare.kaushikpaul.pp.ua/
+ - https://projects.kaushikpaul.co.in/healthcare
 
  ## Features
  - **Structured consultation workflow**: Patient name, visit date, and free-form notes.
